@@ -30,7 +30,7 @@
   - testing (including from the point of view of validators and users)
   - releasing of governance to the validators
 - blockchain founders/CEO (by proof of successful (previous) governance):
-  - hiring developers
+  - hiring / firing  developers
   - governing strategy
 
 There are 3 main layers of governance: by stake, knowledge & goodwill, and previous governance.
