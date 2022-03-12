@@ -15,6 +15,26 @@
 1. After the developers obtain chain continuity, they cede part of governance to validators and will guide the validators to obtain chain continuity with their own means, and reach their own consensus on that fact.
 1. Access to exchanges should be announced after chain continuity is proven by validators and a significant airdrop/claim percentage is reached (or after the claim period). This way the trade is not influenced significantly by the claim ramp-up.
 
+
+## Governance Layers
+
+- users govern (by gas vote):
+  - state of contracts
+- validators (by proof of stake):
+  - state continuity
+  - block creation
+  - value of chain tokens
+- blockchain developers (by proof of knowledge and goodwill):
+  - sourcecode of the chain
+  - deployments
+  - testing (including from the point of view of validators and users)
+  - releasing of governance to the validators
+- blockchain founders/CEO (by proof of successful (previous) governance):
+  - hiring developers
+  - governing strategy
+
+There are 3 main layers of governance: by stake, knowledge & goodwill, and previous governance.
+
 ## Conclusions
 
 1. `de facto` governance examples:
