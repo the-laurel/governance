@@ -24,3 +24,13 @@
 
 - unlimited: you can propose additional choices and add additional choices descriptions
 - limited: vote only on the given choices
+
+## Other Types
+
+- Ranked Choice Voting
+- Plurality Voting
+- Two-Round Runoff
+- Approval Voting
+- Range Voting
+- STAR Voting
+- Condorcet Methods
