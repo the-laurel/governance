@@ -41,8 +41,9 @@ There are 3 main layers of governance: by stake, knowledge & goodwill, and previ
     1. git commands that mutate the repo head
     2. PoS block validation
     3. outcome of execution of chain transactions (vote with the wallet by transaction sender)
+    4. Cosmos-type governance enforced on-chain
 3. `de jure` governance examples:
-    1. Cosmos-type governance (even when the results are on-chain, the outcome cannot be automatically-enforced nor on-chain verified)
+    1. Cosmos-type governance when the results are on-chain, they remain `de jure` if the outcome cannot be automatically-enforced nor enforcing on-chain verified
     2. polls among the decision-makers on Discord, etc.
 5. Blockchain developers must become validators before they can cede that attribute to other players. It is their responsibility to create, instantiate, and test the validation and upgrade/migration while the coin and gas have no value (before the public phase of a launch).
 6. At least one validator must be (or represent) the dev team at all times - for ease of debugging.
