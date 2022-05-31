@@ -4,7 +4,7 @@
 
 1. One `de facto` governs some thing if one can create and destroy that thing.
 1. Governance by voting is always `de jure` if the voting system is unable to enforce (automatically) the implementation of the tally's outcome.
-2. Governance by voting has 2 main types:
+1. Governance by voting has 2 main types:
   - ephemeral, timebound voting: for decisions with finality (such is the governance on chains like Cosmos at this moment)
   - eternal, continuous voting: for decisions that may change, but a temporary decision has to be accounted now (this was implemented in The Laurel Project)
 4. The governance `de jure` must faithfully resemble the governance `de facto`.
@@ -14,6 +14,7 @@
 1. The chain creators (developers) have to test the chain bridges using testchains of other chains (without a coin value), as well as advertised compatibility before the native coin is free to carry value. At the end of testing, they have to reach a consensus that proof of chain continuity (a state-preserving upgrade)`in vivo` has been produced.
 1. After the developers obtain chain continuity, they cede part of governance to validators and will guide the validators to obtain chain continuity with their own means, and reach their own consensus on that fact.
 1. Access to exchanges should be announced after chain continuity is proven by validators and a significant airdrop/claim percentage is reached (or after the claim period). This way the trade is not influenced significantly by the claim ramp-up.
+1. Airdrops, dependent advantages, anything assimilated to graft, blackmail, threats, intimidation should not be used for influencing governance votes. If the votes are for securing grants, loans, investment from the community wealth: airdrops, advantages, services (if extant) have to be available to all said community.
 
 
 ## Governance Layers
