@@ -2,7 +2,7 @@
 
 ## Principles
 
-1. One `de facto` governs something if one can create and destroy that thing.
+1. One `de facto` governs some defined thing if one can create and destroy that thing.
 1. Governance by voting is always `de jure` if the voting system is unable to enforce (automatically) the implementation of the tally's outcome.
 1. Governance by voting has two main types:
   - ephemeral, timebound voting: for decisions with finality (such is the governance on chains like Cosmos at this moment)
