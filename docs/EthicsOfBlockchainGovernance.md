@@ -2,11 +2,16 @@
 
 ## Principles
 
-1. One `de facto` governs some defined thing if one can create and destroy that thing.
+1. One `de facto` governs some defined thing if one can create and destroy that thing:: (deductions)
+    1. The thing to be governed has to be:
+        1. defineable
+        1. containable (separatable from the rest)
+        1. in relationship with the means of governing it
+    1. A thing and its means of governance cannot be both governed at the same time
 1. Governance by voting is always `de jure` if the voting system is unable to enforce (automatically) the implementation of the tally's outcome.
 1. Governance by voting has two main types:
-  - ephemeral, timebound voting: for decisions with finality (such is the governance on chains like Cosmos at this moment)
-  - eternal, continuous voting: for decisions that may change, but a temporary decision has to be accounted for now (this was implemented in The Laurel Project)
+    1. ephemeral, timebound voting: for decisions with finality (such is the governance on chains like Cosmos at this moment)
+    1. eternal, continuous voting: for decisions that may change, but a temporary decision has to be accounted for now (this was implemented in The Laurel Project)
 4. The governance `de jure` must faithfully resemble the `de facto` governance.
 1. A blockchain is created by developers. By principle (1), they have the `de facto` governance in full until they cede it (or part of it by consensus) to the validators.
 1. The governance state must be independently stored from the governed state (the rest of the chain). If there must be layered governance, each layer should have its own chain. This way, a superior layer of governance may fully reset (re-instate the genesis of) an inferior layer without losing its own state. Governance coin (voting weight) and gas should also be layer-unique.
@@ -15,6 +20,7 @@
 1. After the developers obtain chain continuity, they cede part of governance to validators and will guide the validators to obtain chain continuity with their own means and reach their own consensus on that fact.
 1. Access to exchanges should be announced after validators prove chain continuity and a significant airdrop/claim percentage is reached (or after the claim period). This way, the trade is not influenced significantly by the claim ramp-up.
 1. Airdrops, dependent advantages, anything assimilated to graft, blackmail, threats, or intimidation should not be used for influencing governance votes. If the votes are for securing grants, loans, and investment from the community wealth: airdrops, advantages, and services (if extant) must be available to all said community.
+1. Governance should be subject to governoprudence (like jurisprudence, but for governance). That is: precedent can constitute arguments for decisions. Some decisions may take the role of guiding principles unless overruled (especially where continuous voting is implemented).
 
 
 ## Governance Layers
