@@ -27,3 +27,28 @@ From the responsibility point of view, there are the following types of stated i
        1. partial: "Olaf254", "Sylvester34"
        1. complete: "Christian Tzurcanu32"
        1. proven
+
+## Hierarchy of Completeness
+This is the order that we consider (from lowest to highest):
+
+1. anon
+1. nickname
+1. URL to icon
+1. first name
+1. middle name
+1. last name
+1. URL to photo
+1. URL to proof of identity
+1. completeness: which fields were provided
+
+
+Each of the attributes of identity is followed by a unique number that ensures unicity of that identity on that particular dimension. Only the higher-order number is included when identity is displayed.
+Example:
+Identity: Christian Tzurcanu | 305
+
+could be composed of:
+1. anon | 537456032
+2. first name: Christian | 21003423
+3. last name: Tzurcanu | 305
+4. completeness: [first_name, last_name]
+
