@@ -41,6 +41,20 @@ This is the order that we consider (from lowest to highest):
 1. URL to proof of identity
 1. completeness: which fields were provided
 
+## Additional Labels
+
+1. Location at the moment
+2. Location of residence
+3. Nationality
+4. Weight at the moment
+5. Weight at birth
+6. Weight average (last year)
+7. Height at the moment
+8. Height average (last year)
+9. Gender
+10. Character profile (scored on the big 5 axies)
+11. IQ
+
 
 Each of the attributes of identity is followed by a unique number that ensures unicity of that identity on that particular dimension. Only the higher-order number is included when identity is displayed.
 Example:
