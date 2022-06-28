@@ -1,0 +1,62 @@
+# Mythos Strategic Landscape
+
+- Landscape
+    - Finance (DeFi)
+        - Lending and borrowing
+            - Aave: Lend your tokens to earn interest and withdraw any time.
+            - Compound: Lend your tokens to earn interest and withdraw any time.
+            - Oasis: Trade, borrow, and save with Dai
+        - Token swaps
+            - Uniswap: Swap tokens simply or provide tokens for % rewards.
+            - Matcha: Searches multiple exchanges to help find you the best prices.
+            - 1inch: Helps you avoid high price slippage by aggregating best prices.
+        - Trading and prediction markets
+            - Polymarket: Bet on outcomes. Trade on information markets.
+            - Augur: Bet on outcomes of sports, economics, and more world events.
+            - Loopring: Peer-to-peer trading platform built for speed.
+            - dYdX: Open short or leveraged positions with leverage up to 10x. Lending and borrowing available too.
+        - Investments
+            - Token Sets: Crypto investment strategies that automatically rebalance.
+            - PoolTogether: A lottery you can't lose. Prizes every week.
+            - Index Coop: A crypto index fund that gives your portfolio exposure to top DeFi tokens.
+        - Payments
+            - Tornado cash: Send anonymous transactions.
+            - Sablier: Stream money in real-time.
+        - Crowdfunding
+            - Gitcoin Grants: Crowdfunding for Ethereum community projects with amplified contributions
+        - Insurance
+            - Nexus Mutual: Coverage without the insurance company. Get protected against smart contract bugs and hacks.
+            - Etherisc: A decentralized insurance template anyone can use to create their own insurance coverage.
+        - Portfolios
+            - Zapper: Track your portfolio and use a range of DeFi products from one interface.
+            - Zerion: Manage your portfolio and simply evaluate every single DeFi asset on the market.
+            - Rotki: Open source portfolio tracking, analytics, accounting and tax reporting tool that respects your privacy.
+        - Other DeFi
+    - Inter-Chain (IBC-based)
+        - query forwarding
+        - transaction forwarding/replaying
+        - state mirroring
+        - asset bridging
+        - un-chained database (dType-like)
+        - Other Inter-Chain
+    - Information
+        - Oracles
+            - ChainLink
+        - L1 Bridges
+        - Naming Service
+            - ENS: Ethereum Name Service
+        - Block Explorers (projectors of web3 onto web2)
+    - Development
+        - Languages
+        - IDEs
+        - Security Auditing
+    - Wallets
+        - MetaMask: for Ethereum RPC
+        - Keplr: for Cosmos gRPC
+        - ganas: both Ethereum RPC and Cosmos gRPC
+    - Moral
+        - is this project source-invented? (if not: fork of what?)
+        - is this contract benefiting the Mythos Community or only a small party
+        - is this taking from the many and benefiting the few? (or the other way around)
+        - Other moral dimension
+    - Other (any other domain not covered)
