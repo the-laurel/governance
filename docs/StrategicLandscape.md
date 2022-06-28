@@ -32,12 +32,40 @@
             - Zerion: Manage your portfolio and simply evaluate every single DeFi asset on the market.
             - Rotki: Open source portfolio tracking, analytics, accounting and tax reporting tool that respects your privacy.
         - Other DeFi
-    - Asset Specific
-        - NFT
-            - art
-            - games
-            - market
-            - swap
+    - Decentralized arts and collectibles: digital ownership, increasing earning potential for creators, and inventing new ways to invest in your favourite creators and their work.
+        - Art and fashion
+            - Foundation: Invest in unique editions of digital artwork and trade pieces with other buyers.
+            - SuperRare: Buy digital artworks direct from artists or in secondary markets.
+            - Nifty Gateway: Buy works on-chain from top artists, athletes, brands, and creators.
+            - Async Art: Create, collect, and trade #ProgrammableArt - digital paintings split into “Layers” which you can use to affect the overall image. Each Master and Layer is an ERC721 token.
+        - Music
+            - Audius: Decentralized streaming platform. Listens = money for creators, not labels.
+        - Digital collectibles
+            - OpenSea: Buy, sell, discover, and trade limited-edition goods.
+            - marble.cards: Create and trade unique digital cards based on URLs.
+            - Rarible: Create, sell and buy tokenised collectibles.
+            - CryptoPunks: Buy, bid on, and offer punks for sale – one of the first token collectibles on Ethereum.
+            - POAP - Proof of Attendance Protocol: Collect NFTs proving you were at different virtual or in-person events. Use them to join raffles, vote, collaborate, or just to brag.
+    - Decentralized gaming: creation of virtual worlds and battling other players using collectibles that hold real-world value.
+        - Virtual worlds
+            - Cryptovoxels: Create art galleries, build stores, and buy land – an Ethereum virtual world.
+            - Decentraland: Collect, trade virtual land in a virtual world you can explore.
+        - Competition
+            - Axie Infinity: Trade and battle creatures called Axies. And earn as you play – available on mobile
+            - Gods Unchained: Strategic trading card game. Earn cards by playing that you can sell in real life.
+            - Dark Forest: Conquer planets in an infinite, procedurally-generated, cryptographically-specified universe.
+
+    - Decentralized technology: decentralizing developer tools, incorporating cryptoeconomic systems into existing technology, and creating marketplaces for open-source development work.
+        - Utilities
+            - Ethereum Name Service (ENS): User-friendly names for Ethereum addresses and decentralized sites.
+        - Marketplaces
+            - Gitcoin: Earn crypto working on open-source software.
+        - Developer tools
+            - Golem: Access shared computing power or rent your own resources.
+            - radicle.xyz: Secure peer-to-peer code collaboration without intermediaries.
+        - Browsers
+            - Brave: Earn tokens for browsing and support your favorite creators with them.
+            - Opera: Send crypto from your browser to merchants, other users and apps.
     - Inter-Chain (IBC-based)
         - query forwarding
         - transaction forwarding/replaying
@@ -67,3 +95,4 @@
         - are authors known with their true (legaly-actionable) identity?
         - Other moral dimension
     - Other (any other domain not covered)
+
