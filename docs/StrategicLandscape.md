@@ -64,5 +64,6 @@
         - is this project source-invented? (if not: fork of what?)
         - is this contract benefiting the Mythos Community or only a small party
         - is this taking from the many and benefiting the few? (or the other way around)
+        - are authors known with their true (legaly-actionable) identity?
         - Other moral dimension
     - Other (any other domain not covered)
