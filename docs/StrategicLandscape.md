@@ -32,6 +32,12 @@
             - Zerion: Manage your portfolio and simply evaluate every single DeFi asset on the market.
             - Rotki: Open source portfolio tracking, analytics, accounting and tax reporting tool that respects your privacy.
         - Other DeFi
+    - Asset Specific
+        - NFT
+            - art
+            - games
+            - market
+            - swap
     - Inter-Chain (IBC-based)
         - query forwarding
         - transaction forwarding/replaying
