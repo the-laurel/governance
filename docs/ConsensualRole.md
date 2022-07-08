@@ -4,12 +4,12 @@ This facet of identity, together with the [Stated Identity](https://github.com/t
 1. anon (the most generic role)
    1. contract/infrastructure user
    1. contract custodian
-      1. beneficiary (paid by contract's continous effects)
+      1. beneficiary (paid by contract's continuous effects)
       1. developer
    1. asset custodian
       1. global asset (native denom)
          1. whales
-         1. validators (as guardians of community pool)
+         1. validators (as guardians of the community pool)
       1. specific asset (custodians)
          1. specific coins
          1. NFTs
