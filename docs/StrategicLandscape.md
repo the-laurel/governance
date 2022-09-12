@@ -1,4 +1,4 @@
-# Mythos Strategic Landscape
+# A Map Of The Blockchain Strategic Landscape
 
 - Landscape
     - Finance (DeFi)
